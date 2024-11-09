@@ -10,6 +10,7 @@ Un blog increible hecho para el curso de GIt y Github de Platzi
 * El verdadero amor por las buenas prácticas
 * Historia y anecdotas interesantes
 * EL (aparente) TID del profesor que dicta el curso
+* Creado para prueba cherry-pick y practica stash
 
 Como comentario final, mencionar que **este readme.md es un chiste**, diseñado para ejemplificar su uso y aplicación. Si leíste hasta acá no te lo tomes muy en serio 😅
 
