@@ -15,6 +15,11 @@ body
     vertical-align: middle;
 }
 
+#equipo
+{
+    text-align: center;
+}
+
 #cabecera
 {
     background: rgb(95, 95, 203);
