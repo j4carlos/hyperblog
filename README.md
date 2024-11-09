@@ -9,7 +9,7 @@ Un blog increible hecho para el curso de GIt y Github de Platzi
 * El flujo de trabajo de Github
 * El verdadero amor por las buenas prácticas
 * Historia y anecdotas interesantes
-* EL (aparente) TID del profesor que dicta el curso
+* El (aparente) TID del profesor que dicta el curso
 * Creado para prueba cherry-pick y practica stash
 * Incluye ejemplos en Windows y Linux
 * Disponible para todas las edades 
