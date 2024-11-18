@@ -1,4 +1,4 @@
-# Hyperblog 💜
+# [Hyperblog](https://j4carlos.github.io/hyperblog/blogpost.html) 💜
 Un blog increible hecho para el curso de GIt y Github de Platzi
 
 >El curso de Git Github de Platzi es lo que me hacia falta para practicar las cosas aprendidas y ganar confianza para buscar oportunidades laborales
